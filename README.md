@@ -1,6 +1,9 @@
 # Pong_HSPASCAL_for_PalmOS
 Game "Pong" written in HSPASCAL for PalmOS on old PALM devices like Palm IIIc, PALM M series and compatible devices.  This Code was implemented for an interactive Geocache.
 
+![start screen](/Pong_StartScreen.png?raw=true "start screen")
+![game screenshot](/Pong_Screenshot.png?raw=true "screenshot")
+
 ## What it is 
 You can use this code to build up your own interactive geocache and publish it on geocaching.com or opencaching.de.
 You can use for free, but would be cool if you credit or donate (see below) to original developer YvoPet.
