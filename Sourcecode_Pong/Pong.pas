@@ -15,6 +15,11 @@
 // 14.09.2018 v1.04 Monochrome Compilerswitch
 // 26.03.2019 v1.05 Nacharbeit zum Einbinden der Logoresource
 
+// 
+// Der Code kann unter MPL 2.0 frei verwendet werden. 
+// Eine Erwähnung oder eine Paypal Spende an webmaster@peter-ebe.de wären jedoch eine nette Geste :)
+//
+
 Program Pong;
 
 //{$DEFINE MC}
